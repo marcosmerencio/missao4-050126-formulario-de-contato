@@ -65,7 +65,7 @@ Animações e transições
 
 Estilização de mensagens de erro e sucesso
 
-JavaScript (Vanilla JS)
+JavaScript
 
 Interceptação do evento submit
 
