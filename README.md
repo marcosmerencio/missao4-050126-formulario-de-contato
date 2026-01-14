@@ -129,6 +129,9 @@ Estrutura de pastas padronizada
 
 README claro, objetivo e bem documentado
 
+# ✒️ Autor/Desenvolvedor
+Marcos Merencio | Desenvolvedor Web (em formação)
+
 # 📄 Licença
 
 Este projeto é livre para uso educacional e aprendizado.
